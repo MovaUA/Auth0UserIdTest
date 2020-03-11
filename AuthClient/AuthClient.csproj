@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Auth0.AuthenticationApi" Version="7.0.2" />
+    <PackageReference Include="Auth0.Core" Version="7.0.2" />
+    <PackageReference Include="auth0.managementapi" Version="7.0.2" />
+    <PackageReference Include="NewId" Version="3.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
 </Project>
